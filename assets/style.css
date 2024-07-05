@@ -572,6 +572,9 @@ h6 {
 .price-box {
     flex: 0 1 22%;
 }
+.price-box:hover {
+	box-shadow: .1rem 0.2rem 0.6rem rgba(0,0,0,0.5)
+}
 .cut {
     text-decoration: line-through;
 }
